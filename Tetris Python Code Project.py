@@ -1,6 +1,6 @@
-#Tetris Game, written in Python 3.6.5
+#Tetriz Game, written in Python 3.6.5
 #Version: 1.0
-#Date: 26.05.2018
+#Date: 17/12/2024
 
 import pygame #version 1.9.3
 import random
